@@ -12,7 +12,7 @@ This project focuses on analyzing the New York City Airbnb dataset to uncover tr
 
 
 
-1. Minimal price variation across different room types.
+1\. Minimal price variation across different room types.
 
 
 
