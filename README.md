@@ -1,3 +1,5 @@
+<pre>
+
 NYC-Airbnb-EDA/
 │
 ├── data/
@@ -6,12 +8,15 @@ NYC-Airbnb-EDA/
 ├── notebook/
 │   └── airbnb_analysis.ipynb
 │
-├── images/
+├── visuals/
 │   ├── price_by_room_type.png
 │   ├── price_by_borough.png
 │   └── reviews_vs_price.png
 │
 └── README.md
+  
+</pre>
+
 
 
 NYC Airbnb Data Cleaning & Exploratory Data Analysis
