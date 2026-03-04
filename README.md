@@ -1,3 +1,4 @@
+<pre>
 NYC-Airbnb-EDA/
 │
 ├── data/
@@ -12,7 +13,7 @@ NYC-Airbnb-EDA/
 │   └── reviews_vs_price.png
 │
 └── README.md
-
+</pre>
 
 NYC Airbnb Data Cleaning & Exploratory Data Analysis
 
